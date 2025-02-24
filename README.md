@@ -1,4 +1,4 @@
-# 🌟 Week 1: Random Quote Generator—Web Development Challenge 🌟  
+# 🌟 Week 1: Random Quote Generator—Web Development Challenge 
 
 https://github.com/user-attachments/assets/944c8a88-355f-4e69-8e67-8ad85b3dbc4a
 
