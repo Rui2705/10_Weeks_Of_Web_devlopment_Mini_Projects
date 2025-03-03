@@ -14,4 +14,20 @@ For my first mini-project, I built a **Random Quote Generator** using an API tha
 - CSS  
 - JavaScript  
 - [DummyJSON Quotes API](https://dummyjson.com/quotes)  
- 
+
+ # 📚 Week 2 : Book Searching Website  
+
+https://github.com/user-attachments/assets/70414cb2-7bdf-4644-bcd4-984da41ca713
+
+This project is part of my 10-week web development challenge. It is a **Book Searching Website** that uses a dataset to display book information in an interactive and responsive interface.  
+
+## ✨ Features  
+✅ Displays book information from a dataset  
+✅ Responsive design for all devices  
+✅ Built with React.js for a dynamic user experience  
+
+## 🛠️ Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+
