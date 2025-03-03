@@ -1,0 +1,143 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('./img/Bg.jpg'); 
+    background-color: rgba(0, 0, 0, 0.7);
+    background-size: contain;
+    background-blend-mode: darken;
+    text-align: center;
+}
+
+.container {
+    max-width: 95%;
+    margin: auto;
+    padding: 20px;
+    color: white;
+    font-family: Garamond, serif;
+    font-weight: bolder;
+    font-size: 25px;
+
+}
+
+input {
+    width: 70%;
+    padding: 30px;
+    margin: 5px 0;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border: none;
+    font-size: 25px;
+}
+
+#bookList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.bookList{
+    color: black;
+    font-size: 20px;
+    font-family: Optima;
+}
+
+.book {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px rgb(0,0,0), 0 0 15px 0px #e6e6e6;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+}
+
+.book:hover {
+    transform: scale(1.05);
+}
+
+.book img {
+    width: 100%;
+    height: auto;
+}
+
+.NoBooks{
+    background-color: rgb(248, 120, 120);
+    padding: 15px;
+    color: red;
+    border-radius: 20px;
+}
+
+.popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7); 
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-content {
+    display: flex;
+    background: white;
+    width: 60%;
+    max-width: 800px;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.popup-left {
+    flex: 1;
+}
+
+.popup-left img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.popup-right {
+    flex: 2;
+    padding: 20px;
+    text-align: left;
+    color: black;
+    text-align: justify;
+    font-family: Optima;
+}
+
+.popup-title{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.popup-right h2 {
+    margin-top: 0;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+@media (max-width: 700px) {
+    .popup-content {
+        width: auto;
+        display: block;
+        background: white;
+        border-radius: 10px;
+    }
+
+    .popup-left img{
+        width: 60%;
+        height: auto;
+        border-radius: 5px;
+    }
+
+}
