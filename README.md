@@ -31,7 +31,7 @@ This project is part of my 10-week web development challenge. It is a **Book Sea
 - CSS  
 - JavaScript
 
-# 📸 Image Searching Website  
+# 📸 Week 3 : Image Searching Website  
 
 https://github.com/user-attachments/assets/7530a313-c2a0-4dd2-8556-414efb8bb459
 
