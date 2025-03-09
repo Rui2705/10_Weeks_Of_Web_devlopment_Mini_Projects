@@ -29,5 +29,26 @@ This project is part of my 10-week web development challenge. It is a **Book Sea
 ## 🛠️ Technologies Used  
 - HTML  
 - CSS  
+- JavaScript
+
+# 📸 Image Searching Website  
+
+https://github.com/user-attachments/assets/7530a313-c2a0-4dd2-8556-414efb8bb459
+
+This project is part of my 10-week web development challenge. It is an **Image Searching Website** that fetches high-quality images from the **Unsplash API** using a **React.js frontend** and a **Node.js backend**.  
+
+## ✨ Features  
+✅ Fetches high-quality images from the Unsplash API  
+✅ Responsive design for all devices  
+✅ React.js for dynamic UI & Node.js for backend API handling  
+
+## 🛠️ Technologies Used  
+- HTML  
+- CSS  
 - JavaScript  
+- React.js (Frontend)  
+- Node.js (Backend)  
+- Unsplash API  
+
+
 
