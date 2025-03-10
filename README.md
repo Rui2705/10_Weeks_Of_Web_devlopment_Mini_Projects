@@ -48,7 +48,7 @@ This project is part of my 10-week web development challenge. It is an **Image S
 - JavaScript  
 - React.js (Frontend)  
 - Node.js (Backend)  
-- Unsplash API  
+- [Unsplash API](https://unsplash.com/developers)  
 
 
 
