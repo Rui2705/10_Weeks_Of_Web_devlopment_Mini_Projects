@@ -50,5 +50,18 @@ This project is part of my 10-week web development challenge. It is an **Image S
 - Node.js (Backend)  
 - [Unsplash API](https://unsplash.com/developers)  
 
+# Week 4 : 🔐 Random Password Generator  
 
+https://github.com/user-attachments/assets/c78911f0-8f15-4f57-a34f-c66e3171853d
 
+This project is part of my 10-week web development challenge. It is a **Random Password Generator** built using **HTML, CSS, and JavaScript** to generate strong and secure passwords.  
+
+## ✨ Features  
+✅ Generates random and secure passwords  
+✅ Option to customize password length and characters  
+✅ User-friendly and responsive design 
+
+## 🛠️ Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
