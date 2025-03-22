@@ -64,4 +64,26 @@ This project is part of my 10-week web development challenge. It is a **Random P
 ## 🛠️ Technologies Used  
 - HTML  
 - CSS  
+- JavaScript
+
+
+# 🎬 Week 5: Movie Searching Website 
+
+https://github.com/user-attachments/assets/aa123c3b-e186-4c35-a15d-a6f8a1fe1af9
+
+This project is part of my 10-week web development challenge. It is a **Movie Searching Website** built using **React, React Bootstrap, Axios, HTML, CSS, and JavaScript**, fetching data from the **IMDb API** to display movie details dynamically.  
+
+## ✨ Features  
+✅ **Search:** Easily search for movies by title  
+✅ **Detailed Information:** View release year, genre, director, cast, and plot summary  
+✅ **Dynamic Results:** Get real-time search results as you type  
+✅ **Responsive Design:** Optimized for desktops, tablets, and smartphones  
+
+## 🛠️ Technologies Used  
+- HTML  
+- CSS  
 - JavaScript  
+- React.js  
+- React Bootstrap  
+- Axios  
+- IMDb API  
