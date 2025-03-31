@@ -90,6 +90,8 @@ This project is part of my 10-week web development challenge. It is a **Movie Se
 
 # 🎵 Week 6 : Music Player  
 
+https://github.com/user-attachments/assets/c35c56d2-1372-4c9e-915b-713a8226daf1
+
 This project is part of my 10-week web development challenge. It is a **Music Player** built using **HTML, CSS, and JavaScript**, fetching and playing music from a **dataset**.  
 
 ## ✨ Features  
