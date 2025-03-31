@@ -67,7 +67,7 @@ This project is part of my 10-week web development challenge. It is a **Random P
 - JavaScript
 
 
-# 🎬 Week 5: Movie Searching Website 
+# 🎬 Week 5 : Movie Searching Website 
 
 https://github.com/user-attachments/assets/aa123c3b-e186-4c35-a15d-a6f8a1fe1af9
 
@@ -86,4 +86,20 @@ This project is part of my 10-week web development challenge. It is a **Movie Se
 - React.js  
 - React Bootstrap  
 - Axios  
-- IMDb API  
+- IMDb API
+
+# 🎵 Week 6 : Music Player  
+
+This project is part of my 10-week web development challenge. It is a **Music Player** built using **HTML, CSS, and JavaScript**, fetching and playing music from a **dataset**.  
+
+## ✨ Features  
+✅ **Play/Pause:** Control playback with ease  
+✅ **Track Navigation:** Skip forward and backward between songs  
+✅ **Dynamic Playlist:** Fetches and displays songs dynamically from a dataset  
+✅ **Responsive Design:** Optimized for desktops, tablets, and smartphones  
+
+## 🛠️ Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
+- [Music Dataset](https://github.com/topics/music-player?l=html)
