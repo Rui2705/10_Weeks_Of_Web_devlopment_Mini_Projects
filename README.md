@@ -105,3 +105,25 @@ This project is part of my 10-week web development challenge. It is a **Music Pl
 - CSS  
 - JavaScript  
 - [Music Dataset](https://github.com/topics/music-player?l=html)
+
+
+# 🕹️ Week 7 : Guess a Word Game
+
+https://github.com/user-attachments/assets/d26f9ac7-a9c0-4725-999c-e6bae3dadf02
+
+This project is part of my 10-week web development challenge. It is a fun and interactive **Guess a Word Game** built using **HTML, CSS, and JavaScript**.
+
+The game is deployed on **GitHub Pages**, so feel free to play and share it with your friends! 🎉
+
+## ✨ Features
+✅ Random word generation  
+✅ Real-time input validation  
+✅ Win/Lose message alerts  
+✅ Responsive design for all devices  
+✅ Deployed on GitHub Pages
+
+## 🛠️ Technologies Used
+- HTML  
+- CSS  
+- JavaScript
+
