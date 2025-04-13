@@ -127,3 +127,27 @@ The game is deployed on **GitHub Pages**, so feel free to play and share it with
 - CSS  
 - JavaScript
 
+# ⛅ Week 8 : Weather App
+
+https://github.com/user-attachments/assets/a81d6202-fbf3-4498-8ae5-2e7ee0ad3b68
+
+This project is part of my 10-week web development challenge. It is a functional and responsive **Weather App** built using **HTML, CSS, and JavaScript**. The app fetches real-time weather data using the **WeatherAPI**.
+
+## ✨ Features
+✅ Search for any city to view current weather  
+✅ Displays temperature, weather conditions, humidity, and more  
+✅ Real-time data from WeatherAPI  
+✅ View weather based on your **current location** using geolocation  
+✅ Clean and responsive UI  
+✅ Deployed on GitHub Pages for easy access
+
+## 🛠️ Technologies Used
+- HTML  
+- CSS  
+- JavaScript  
+- [WeatherAPI](https://www.weatherapi.com/)
+
+
+
+
+
