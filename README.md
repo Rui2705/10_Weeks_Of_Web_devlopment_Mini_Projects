@@ -147,6 +147,29 @@ This project is part of my 10-week web development challenge. It is a functional
 - JavaScript  
 - [WeatherAPI](https://www.weatherapi.com/)
 
+# 🔤 Week 9 : Word Scramble Game
+
+
+
+This project is part of my 10-week web development challenge. It is a fun and interactive **Word Scramble Game App** built using **HTML, CSS, JavaScript, and React.js**.
+
+The game challenges users to unscramble randomly jumbled words and improves their vocabulary while having fun! 🎯
+
+## ✨ Features
+✅ Randomly scrambles words every round  
+✅ User input validation and instant feedback  
+✅ Score tracking for correct guesses  
+✅ Simple and intuitive UI  
+✅ Responsive design for all screen sizes  
+✅ Deployed on GitHub Pages for public access
+
+## 🛠️ Technologies Used
+- HTML  
+- CSS  
+- JavaScript  
+- React.js
+
+
 
 
 
