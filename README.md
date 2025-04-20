@@ -150,7 +150,6 @@ This project is part of my 10-week web development challenge. It is a functional
 # 🔤 Week 9 : Word Scramble Game
 
 
-
 This project is part of my 10-week web development challenge. It is a fun and interactive **Word Scramble Game App** built using **HTML, CSS, JavaScript, and React.js**.
 
 The game challenges users to unscramble randomly jumbled words and improves their vocabulary while having fun! 🎯
