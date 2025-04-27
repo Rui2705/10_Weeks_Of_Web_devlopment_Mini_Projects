@@ -168,6 +168,20 @@ The game challenges users to unscramble randomly jumbled words and improves thei
 - JavaScript  
 - React.js
 
+# 💬 Week 10 : Chat Bot App
+
+This project is part of my 10-week web development challenge. It is a simple and interactive **Chat Bot App** built using **HTML, CSS, JavaScript**, and powered by the **Gemini API**.
+
+The chatbot offers real-time responses based on user input, providing an engaging and user-friendly experience! 🤖
+
+## ✨ Features
+✅ Responsive chatbot interaction  
+✅ Real-time answers using Gemini API  
+✅ User-friendly and clean chat interface  
+✅ Responsive design across all devices  
+✅ Deployed on GitHub Pages for easy access
+
+
 
 
 
